@@ -33,11 +33,6 @@ If `python` does not work, try:
 python3 server.py
 ```
 
-You should see something like:
-
-```text
-Server running on port 12345...
-```
 
 ### 2. Start the first client
 
