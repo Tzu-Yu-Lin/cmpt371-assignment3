@@ -39,13 +39,13 @@ python3 server.py
 Open a second terminal in the same project folder and run:
 
 ```bash
-python client_gui.py
+python client_frontend.py
 ```
 
 If `python` does not work, try:
 
 ```bash
-python3 client_gui.py
+python3 client_frontend.py
 ```
 
 ### 3. Connect the client
@@ -59,7 +59,7 @@ python3 client_gui.py
 Open more terminals and run:
 
 ```bash
-python client_gui.py
+python client_frontend.py
 ```
 
 ## How the Program Works
