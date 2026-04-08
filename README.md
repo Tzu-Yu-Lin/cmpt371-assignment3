@@ -82,4 +82,7 @@ video name: cmpt371_assignment3.mp4
 * No chat history is saved
 * The does not handle advanced features such as file transfer
 
+## GenAI Usage:
+Chatgpt assistance was used for the GUI/frontend design.
+
 
