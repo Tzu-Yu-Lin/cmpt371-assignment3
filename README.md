@@ -77,10 +77,3 @@ When a client connects, it sends a username to the server. After that, the clien
 * The does not handle advanced features such as file transfer
 
 
-## Possible Issues
-
-* If the server is not started first, clients cannot connect
-* If the port is already in use, the server may fail to start
-* If Tkinter is not installed on a system, the GUI client may not open
-* Closing the client window disconnects that user from the chat
-
