@@ -1,4 +1,6 @@
 # CMPT371 assignment3
+* Tzu Yu Lin 301576230
+* Fan Wu 301576335
 
 ## Project Description
 
@@ -73,7 +75,6 @@ When a client connects, it sends a username to the server. After that, the clien
 ## Limitations
 
 * No chat history is saved
-* If the server is closed, all clients are disconnected
 * The does not handle advanced features such as file transfer
 
 
