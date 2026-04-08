@@ -8,7 +8,7 @@ This is a simple multi-client chat application built with Python socket programm
 
 ```text
 server.py
-client_gui.py
+client_frontend.py
 client_backend.py
 ```
 
