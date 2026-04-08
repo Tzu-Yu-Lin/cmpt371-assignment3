@@ -72,6 +72,11 @@ python client_frontend.py
 
 When a client connects, it sends a username to the server. After that, the client can send chat messages, and the server broadcasts them to other connected clients.
 
+## Video Demo
+
+A short demo video is provided to show how to run the application and demonstrate its functionality.
+video name: cmpt371_assignment3.mp4
+
 ## Limitations
 
 * No chat history is saved
